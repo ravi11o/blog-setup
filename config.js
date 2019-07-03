@@ -28,10 +28,8 @@ module.exports = {
     bio: 'Web developer in making. Loves writing about React 🤩 Node',
     contacts: {
       email: 'ankit@altcampus.com',
-      telegram: '#',
-      twitter: 'https://twiter.com/nnnkit',
-      github: 'https://github.com/nnnkit', rss: '#',
-      vkontakte: '#'
+      twitter: 'nnnkit',
+      github: 'nnnkit',
     }
   }
 };
