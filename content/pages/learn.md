@@ -1,6 +1,6 @@
 ---
-title: Learning in Public
-template: page
+title: "Learn In Public"
+template: "page"
 ---
 
 There's a lot I want to learn, and a lot I've learned and documented. Here's where I list both.
