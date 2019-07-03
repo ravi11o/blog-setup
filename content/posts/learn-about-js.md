@@ -2,7 +2,7 @@
 title: Humane Typography in the Digital Age
 date: "2017-08-19"
 template: "post"
-draft: true
+draft: false
 slug: "/posts/learn-about-javascript/"
 category: "JavaScript"
 tags:
