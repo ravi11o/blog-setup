@@ -2,12 +2,12 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Learn JavaScript, Deeply 😍',
+  subtitle: 'Web developer in making. Loves writing about React 🤩 Node',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-73379983-2123123',
   menu: [
     {
       label: 'Articles',
@@ -23,15 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Ankit',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Web developer in making. Loves writing about React 🤩 Node',
     contacts: {
-      email: '#',
+      email: 'ankit@altcampus.com',
       telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
+      twitter: 'https://twiter.com/nnnkit',
+      github: 'https://github.com/nnnkit', rss: '#',
       vkontakte: '#'
     }
   }
